@@ -171,3 +171,4 @@ for (let index = 0; index < ansatt.length; index++) {
     document.write('<img src="'+element+'">')
     
 }
+
