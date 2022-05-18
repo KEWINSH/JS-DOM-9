@@ -1,4 +1,30 @@
+* {
+    font-family: 'jokerman';
+}
+
 .container {
     display: flex;
+    margin: 10px;
+}
+
+img {
+    width: 200px;
+    height: 300px;
+    padding: 5px;
+}
+
+h1 {
+    display: flex;
     justify-content: center;
+    padding: 10px;
+}
+
+h2 {
+    display: flex;
+    justify-content: center;
+    font-size: medium;
+    border: 1px solid black;
+    margin-top: 100px;
+    padding: 10px;
+    background-color: lightgray;
 }
